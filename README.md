@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am a PhD physics student at the University of Birmingham.
 
+I am currently working on neutron simulations, for medical applications of the new High Flux Neutron Source at the University of Birmingham.
 <!--
 **mconroy101/mconroy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
